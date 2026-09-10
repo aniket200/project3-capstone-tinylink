@@ -1,0 +1,19 @@
+# Maven
+java-backend/target/
+
+# Logs
+*.log
+access.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
